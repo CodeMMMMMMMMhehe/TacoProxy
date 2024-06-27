@@ -20,6 +20,14 @@
       "preview": {
         "port": 8080
       }
+    },
+    "react": {
+      "name": "vite",
+      "command": "vite",
+      "runAtStart": true,
+      "preview": {
+        "port": 8080
+      }
     }
   }
 }
