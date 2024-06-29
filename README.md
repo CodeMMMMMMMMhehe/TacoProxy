@@ -9,7 +9,7 @@
 ##### PageSpeed rating of [0/0](https://google.com) 
 
 # Domains
-Coming Soon
+[eeproxy.vercel](httrps://eeproxy.vercel.app)
 
 # How to Use
 ### Module Use
